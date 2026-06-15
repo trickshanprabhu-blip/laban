@@ -1,0 +1,21 @@
+{
+  "name": "laban",
+  "version": "1.0.0",
+  "description": "ALBAN Architecture - Premium architectural design and construction services",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured - static HTML site'"
+  },
+  "keywords": [
+    "architecture",
+    "design",
+    "construction"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
